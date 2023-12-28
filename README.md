@@ -1,4 +1,4 @@
-All of the methods utilize the Symbolic Toolbox in MATLAB. The programs can easily be tweaked to work for anonymous functions. 
+**\All of the methods utilize the Symbolic Toolbox in MATLAB. The programs can easily be tweaked to work for anonymous functions.\** 
 
 **Root Finding & Fixed Point**
 - bisection.m
