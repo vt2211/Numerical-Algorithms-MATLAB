@@ -1,6 +1,7 @@
 ***All of the methods utilize the Symbolic Toolbox in MATLAB. The programs can easily be tweaked to work for anonymous functions.***
 
 **Root Finding & Fixed Point**
+- golden_section.m
 - bisection.m
 - bisection_table.m
 - secant.m
@@ -58,6 +59,10 @@
 - gausselim.m
 - LU_demo.m
 - mkM.m
+
+**Descent Methods**
+- gradient_method.m
+- newton_method.m
 
 **Miscellaneous**
 - chop.m
